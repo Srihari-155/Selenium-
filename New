@@ -1,0 +1,56 @@
+typing the text
+	 * @author : YAKSHA
+	 */
+	public boolean clickAndEnterValueInSearchField(String searchData) {
+		// Write the logic here
+		return false;
+	}
+
+
+
+	/**
+	 * @Test8.3 @Test9.2
+	 * about this method highlightAndClickOnButton()
+	 * 
+	 * @param : By, String
+	 * @description : Highlights the provided element and clicks on it
+	 * @return : boolean
+	 * @throws : Exception - if there is an issue finding the element
+	 * @author : YAKSHA
+	 */
+	public boolean highlightAndClickOnButton(By element, String buttonName) {
+		// Write the logic here
+		return false;
+	}
+
+
+	/**
+	 * @Test9.1 about this method applyDateFilter()
+	 * 
+	 * @param : String, String
+	 * @description : Applies the date filter with date range
+	 * @return : boolean
+	 * @throws : Exception - if there is an issue finding or filling the date fields
+	 * @author : YAKSHA
+	 */
+	public boolean applyDateFilter(String fromDate, String toDate) throws Exception {
+		// Write the logic here
+		return false;
+	}
+
+	/**
+	 * @Test9.3 about this method verifyActualDatesAreWithinThisRange()
+	 * 
+	 * @param : String, String
+	 * @description : Verify whether results are within the applied date range
+	 * @return : boolean
+	 * @throws : Exception - if there is an issue finding the actual dates within
+	 *           the results
+	 * @author : YAKSHA
+	 */
+	public boolean verifyActualDatesAreWithinThisRange(String fromDate, String toDate) {
+		// Write the logic here
+		return false;
+	}
+
+}
